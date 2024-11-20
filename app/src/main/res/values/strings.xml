@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Upstox</string>
+    <string name="portfolio">Portfolio</string>
+    <string name="holdings">Holdings</string>
+    <string name="current_value">Current value*</string>
+    <string name="total_investment">Total investment*</string>
+    <string name="todays_profit_and_loss">Today\'s Profit &amp; Loss*</string>
+    <string name="profit_and_loss">Profit &amp; Loss*</string>
+</resources>
